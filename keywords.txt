@@ -1,0 +1,5 @@
+FourBySeven	KEYWORD1
+display		KEYWORD2
+enableMarker	KEYWORD2
+disableMarker	KEYWORD2
+clearMarkers	KEYWORD2
